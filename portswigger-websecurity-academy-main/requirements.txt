@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+websockets
+asyncio
+pyjwt[crypto]
+jwcrypto 
+urllib

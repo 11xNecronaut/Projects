@@ -1,0 +1,14 @@
+# Core cryptography
+cryptography>=46.0.0
+pqcrypto>=0.4.0
+
+# Steganography (image I/O)
+pillow>=12.0.0
+numpy>=2.0.0
+
+# GUI
+PySide6>=6.7.0
+
+# Testing
+pytest>=9.0.0
+scipy>=1.17.0  # only needed for tests/steganalysis_selftest.py
